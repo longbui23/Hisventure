@@ -1,3 +1,3 @@
 # HISTVENTURE BLOG
 A WEBPAGE FOR MY PERSONAL HOBBY
-Link: http://hisventure.io/
+Link: https://longbui23.github.io/hisventure.github.io/
