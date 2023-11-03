@@ -1,2 +1,3 @@
 # HISTVENTURE BLOG
 A WEBPAGE FOR MY PERSONAL HOBBY
+Link: http://hisventure.io/
