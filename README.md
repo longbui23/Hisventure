@@ -1,1 +1,2 @@
-# hisventure.github.io
+# HISTVENTURE BLOG
+A WEBPAGE FOR MY PERSONAL HOBBY
